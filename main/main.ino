@@ -1,11 +1,11 @@
 // NES controller (4021 shift register) -> USB Gamepad via GamepadAPI
 //
 // Wiring:
-//   1: white  (5V)
-//   2: yellow (clock)
-//   3: white  (latch)
-//   4: red    (data)
-//   7: brown  (ground)
+//   1: White  (5V)
+//   2: Yellow (clock)
+//   3: Orange (latch)
+//   4: Red    (data)
+//   7: Brown  (ground)
 
 #include "Gamepad.h"
 #include "NesController.h"

@@ -12,6 +12,8 @@ For the build that is used here, the following boards from Amazon were used: [Ar
 
 These are based on the Sparkfun Pro Micro but with a USB-C port instead of MicroUSB. The USB-C port was preferred for our builds as we have tons of these cables lying around and it was easier to shape our 3D printed housings (not part of this repository).
 
+*NOTE: The links here are examples of what to get, these are not direct recommendations. Make your own choice based on your needs and budget.*
+
 ### Wiring
 
 ![NES Controller Pinout](https://github.com/ElectronicsFlip/NES2USBAdapter/blob/main/doc/NES-controller-pinout.gif)

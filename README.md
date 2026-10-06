@@ -30,7 +30,7 @@ These are based on the Sparkfun Pro Micro but with a USB-C port instead of Micro
 
 The boards linked above are by default set to 5v. This is what we want as the NES controller uses +5v for operation.
 
-![NES Controller Pinout](https://github.com/ElectronicsFlip/NES2USBAdapter/blob/main/doc/pro-micro-wiring.gif)
+![NES to Arduino Wiring Guide](https://github.com/ElectronicsFlip/NES2USBAdapter/blob/main/doc/pro-micro-wiring.gif)
 
 **Wiring**
 

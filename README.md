@@ -39,3 +39,5 @@ The boards linked above are by default set to 5v. This is what we want as the NE
 * Data 0 -> Pin 4
 * Ground -> GND
 * VCC -> VCC
+
+*OPTIONAL: RXI pin is used for LED+ as it's right next to a ground pin for a pin header that we use here to indicate power if you build this into a case. This is entirely optional.*

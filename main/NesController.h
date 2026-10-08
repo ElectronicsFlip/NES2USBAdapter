@@ -22,7 +22,7 @@ class NesController
     {
         pinMode(LatchPin, OUTPUT);
         pinMode(ClockPin, OUTPUT);
-        pinMode(DataPin, INPUT);
+        pinMode(DataPin, INPUT_PULLUP);
         digitalWrite(LatchPin, LOW);
         digitalWrite(ClockPin, LOW);
     }

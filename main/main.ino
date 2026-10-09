@@ -86,6 +86,7 @@ void setup()
 {
   controller.begin();
   gamepad.begin();
+  pinMode(PowerLedPin, OUTPUT);
   digitalWrite(PowerLedPin, HIGH);
 }
 
